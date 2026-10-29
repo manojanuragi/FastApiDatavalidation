@@ -1,0 +1,12 @@
+[
+    {"title": "clean code", "author": "Robert Martin", "isbn": "9780132350884", "price": 29.99, "year": 2008},
+    {"title": "the pragmatic programmer", "author": "Hunt and Thomas", "isbn": "9780135957059", "price": 39.5, "year": 2019},
+    {"title": "fluent python", "author": "Luciano Ramalho", "isbn": "9781492056355", "price": 49.0, "year": 2022},
+    {"title": "python crash course", "author": "Eric Matthes", "isbn": "9781718502703", "price": 25.0, "year": 2023},
+    {"title": "effective python", "author": "Brett Slatkin", "isbn": "9780134853987", "price": 35.0, "year": 2019},
+    {"title": "automate the boring stuff", "author": "Al Sweigart", "isbn": "9781593279929", "price": 22.0, "year": 2019},
+    {"title": "string price book", "author": "Test Author", "isbn": "9780000000001", "price": "29.99", "year": 2020},
+    {"title": "negative year book", "author": "Test Author", "isbn": "9780000000002", "price": 10.0, "year": -100},
+    {"title": "short isbn book", "author": "Test Author", "isbn": "123", "price": 15.0, "year": 2021},
+    {"title": "negative price book", "author": "Test Author", "isbn": "9780000000003", "price": -5, "year": 2021}
+]
